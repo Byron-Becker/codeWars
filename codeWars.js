@@ -30,6 +30,24 @@
 // const greetingg = name => `Hello, ${name}`
 // const greeting = name => 'Hello, ' + name
 
+// function squareNum(int){
+//     let array = int.toString().split('') 
+//     let squareArr = []
+
+//     for(let i = 0; i<array.length; i++){
+//         squareArr.push(array[i]*array[i])
+//     }
+
+//     return Number(squareArr.join(''))
+
+// }
+
+
+
+
+
+
+
 
 
 

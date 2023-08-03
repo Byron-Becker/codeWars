@@ -43,7 +43,11 @@
 // }
 
 
+// const squareNum = int => int.toString().split('').map(e => e*e).join('').toNumber()
 
+// Object.entries builds an array of the key and values as an array an array of arrays
+// Object.keys builds an array of the keys
+// Object.assign combines an object into another boje
 
 
 

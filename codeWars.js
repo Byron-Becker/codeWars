@@ -27,6 +27,10 @@
 //     }
 // }
 
+// const greetingg = name => `Hello, ${name}`
+// const greeting = name => 'Hello, ' + name
+
+
 
 
 

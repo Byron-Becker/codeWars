@@ -11,3 +11,5 @@
 
 
 // function numbOcc = (str,c) => str.match(new RegExp(c, 'ig') || []).length
+
+// const findNeedle = haystack => `found the needle at position` + haystack.indexOf('needle')

@@ -58,6 +58,9 @@
 
 // clearfix helps with stopping a parent container for collapsing when the children are floated.
 //  
+// label can give textarea, input or wording.  It is not a self-containing tage, you write in the tag.
+// for is attached to the id of what it is linked to
+//  also want name so
 
 
 

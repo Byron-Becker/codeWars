@@ -54,6 +54,9 @@
 
 // blockquote, cite, q  and cite is an attribute
 
+// float removes the element from the flow of the page and position the child horizonatlly within the parent container.  left right and both
+
+    
 
 
 

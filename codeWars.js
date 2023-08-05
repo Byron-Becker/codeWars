@@ -52,7 +52,7 @@
 
 // Math.max(a)
 
-
+// blockquote, cite, q  and cite is an attribute
 
 
 

@@ -56,7 +56,8 @@
 
 // float removes the element from the flow of the page and position the child horizonatlly within the parent container.  left right and both
 
-    
+// clearfix helps with stopping a parent container for collapsing when the children are floated.
+//  
 
 
 

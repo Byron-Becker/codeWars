@@ -64,6 +64,46 @@
 
 // only does it for the specific mode, but old browsers do not recognize it
 
+// @media all and (max-width: 1024px) { }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

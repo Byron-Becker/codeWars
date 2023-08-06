@@ -62,6 +62,7 @@
 // for is attached to the id of what it is linked to
 //  also want name so
 
+// only does it for the specific mode, but old browsers do not recognize it
 
 
 

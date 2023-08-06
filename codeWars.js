@@ -71,7 +71,7 @@
 
 // function intSquare = int => Number(int.toString().split('').map(e=>e*e).join(''))
 
-
+// flex: grow shrink basis
 
 
 

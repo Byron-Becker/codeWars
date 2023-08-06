@@ -66,9 +66,10 @@
 
 // @media all and (max-width: 1024px) { }
 
+// keeping selectors short allows all other selectors to be less specific which helps with
+// portability, manageibeley and improves efficiency, and inheritence
 
-
-
+// function intSquare = int => Number(int.toString().split('').map(e=>e*e).join(''))
 
 
 

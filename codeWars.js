@@ -77,7 +77,7 @@
 
 // git log
 
-
+// .join('') combines an array into a string
 
 
 

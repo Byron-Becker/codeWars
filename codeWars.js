@@ -85,6 +85,8 @@
 
 // function declaration is bound to an identifier, the function declaration is just a unit of code that exists.  It must be called in order for it to be executed
 
+// constructor property is there to identify what function created it, where the internal prototype property is there for help with inheritance of the object so 
+
 
 
 

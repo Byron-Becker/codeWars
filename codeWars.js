@@ -90,7 +90,7 @@
 // an array is an ordered collection of data, that is indexed and starts at 0.
 //  arrays have methods to help organize this data and they can be created with literal notation or by a constructor
 
-
+// it is generally a good idea to put css in the head, because as the ui loads you want the content to load with it's styling, and you put the javascript at the end of the body to avoid blocking the critical rendering path which helps to improve page load time.  Both help improve the overal user experience
 
 
 

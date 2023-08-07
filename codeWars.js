@@ -87,6 +87,12 @@
 
 // constructor property is there to identify what function created it, where the internal prototype property is there for help with inheritance of the object so 
 
+// an array is an ordered collection of data, that is indexed and starts at 0.
+//  arrays have methods to help organize this data and they can be created with literal notation or by a constructor
+
+
+
+
 
 
 

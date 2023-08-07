@@ -77,9 +77,9 @@
 
 // git log
 
-// .join('') combines an array into a string
-
-
+// .join('') combines an array into a stri
+// short circuit evaluation is a true false statement
+//  let name = username || stranger
 
 
 

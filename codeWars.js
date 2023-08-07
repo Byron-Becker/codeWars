@@ -81,6 +81,7 @@
 // short circuit evaluation is a true false statement
 //  let name = username || stranger
 
+// .join('')
 
 
 

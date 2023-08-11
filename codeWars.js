@@ -545,7 +545,10 @@ for(let i = 1; i<=num.length)
 
 // }
 
+// let divisor = Math.floor(x/y)
+// let remainder = x % y
 
+// for  y-remainder
 
 
 

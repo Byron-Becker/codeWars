@@ -527,6 +527,12 @@ for(let i = 1; i<=num.length)
 // great for modularity and clearer code
 
 
+// an arrow funciton is an anonymous function that is often used as inline function in an array,
+
+
+
+
+
 
 
 

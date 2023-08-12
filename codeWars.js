@@ -534,9 +534,16 @@ for(let i = 1; i<=num.length)
 // let user = new Object()
 // let user = {}
 
+const countby = (x, y) => Array.from({length: y}, (_, i) => x*(i+1))
 
+function cuntby(x,y) {
+    let arr = []
 
+    for(let i=0; i <= y; i++){
+        arr.push[i*x]
+    }
 
+}
 
 
 

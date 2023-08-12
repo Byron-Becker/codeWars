@@ -531,7 +531,8 @@ for(let i = 1; i<=num.length)
 
 // a ternary operator is short hand for an if/else statement, two is best practice but can do more
 
-
+// let user = new Object()
+// let user = {}
 
 
 

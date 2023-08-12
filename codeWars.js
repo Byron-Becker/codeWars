@@ -529,6 +529,13 @@ for(let i = 1; i<=num.length)
 
 // an arrow funciton is an anonymous function that is often used as inline function in an array,
 
+// a ternary operator is short hand for an if/else statement, two is best practice but can do more
+
+
+
+
+
+
 
 
 

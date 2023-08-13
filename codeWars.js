@@ -505,7 +505,10 @@ for(let i = 1; i<=num.length)
 // encapsulation fuses the methods with it's associated data
 // it decouples the backend data from the front end userintera
 
+// keyword defines language constructs, and controls flow executions
+// operator manipulates data and performs calculations
 
+// controls flow executions, and defines language constructs
 
 
 

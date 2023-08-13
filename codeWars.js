@@ -519,7 +519,8 @@ for(let i = 1; i<=num.length)
 // async in front of a funciton means that the function will return a promise
 // 
 
-
+// the for each method is a method that loops through an array and applies a specific function to it, it does not return an araay and can not break out of it
+//  and just outputs the value
 
 
 

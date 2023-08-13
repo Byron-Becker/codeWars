@@ -510,8 +510,11 @@ for(let i = 1; i<=num.length)
 
 // controls flow executions, and defines language constructs
 
-
-
+// a higher order funciton is a funciton that takes in another function as an argument, produces a funciton or both
+// it helps to define generic operations that can be applied to multiple different types of data
+//  without the need for intermediate variables, and explicit loops
+// callback functions are placed withinside methods like map
+// eplicit loops or control structures, and intermediate variables
 
 
 

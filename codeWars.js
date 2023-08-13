@@ -516,7 +516,8 @@ for(let i = 1; i<=num.length)
 // callback functions are placed withinside methods like map
 // eplicit loops or control structures, and intermediate variables
 
-
+// async in front of a funciton means that the function will return a promise
+// 
 
 
 

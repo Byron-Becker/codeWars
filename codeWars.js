@@ -522,7 +522,9 @@ for(let i = 1; i<=num.length)
 // the for each method is a method that loops through an array and applies a specific function to it, it does not return an araay and can not break out of it
 //  and just outputs the value
 
-
+// they are a powerful tool because they define generic operations that can be applied to different types of data without the need for 
+// explicit loops and control structures
+// great for modularity and clearer code
 
 
 

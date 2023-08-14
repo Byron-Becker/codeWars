@@ -494,6 +494,7 @@ for(let i = 1; i<=num.length)
 // input, select,textarea
 // fieldset, input, legend, button
 
+// flex-basis: grow shrink basis
 
 
 

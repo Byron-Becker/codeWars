@@ -491,7 +491,8 @@ for(let i = 1; i<=num.length)
 // background: color url position repeat
 // list-style-type: none
 
-
+// input, select,textarea
+// fieldset, input, legend, button
 
 
 

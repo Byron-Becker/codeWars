@@ -488,7 +488,8 @@ for(let i = 1; i<=num.length)
 // figure is used to mark up a self-contained piece of content like an image, illustration diagram, that is referenced in the main doc
 // fieldset is used to group form elements like checkboxes, radio, inputs,select
 
-
+// background: color url position repeat
+// list-style-type: none
 
 
 

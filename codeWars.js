@@ -496,6 +496,9 @@ for(let i = 1; i<=num.length)
 
 // flex-basis: grow shrink basis
 
+// git rm 
+
+
 
 
 

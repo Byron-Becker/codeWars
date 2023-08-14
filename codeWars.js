@@ -498,8 +498,12 @@ for(let i = 1; i<=num.length)
 
 // git rm 
 
+// hide the details, show the essentials.
+// presenting a simple interface to interact with a complex system
+// helps for improved code manageability, modularity, and scalability
 
-
+// encapsulation fuses the methods with it's associated data
+// it decouples the backend data from the front end userintera
 
 
 

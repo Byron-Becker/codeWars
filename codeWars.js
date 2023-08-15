@@ -474,9 +474,13 @@ for(let i = 1; i<=num.length)
 
 // express no longer requires body-parser
 
+// find() query on a collection returns a cursor which points to where the data is located.
+// must use another method that is built in to find() like .toArray to display the info
 
 
-
+// Databses, can have multiple with specific permissions and user accessibility.  
+//  Contain collections without them that
+// collections contain documents taht store key-value data
 
 
 

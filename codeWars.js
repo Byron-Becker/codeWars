@@ -470,7 +470,7 @@ for(let i = 1; i<=num.length)
 
 // npm -save will save to dependencies for production of the app while --save-dev saves it to dev depenen
 
-
+// must be mindful of connecting to server and not just opening file locally
 
 
 

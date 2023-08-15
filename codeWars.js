@@ -482,9 +482,11 @@ for(let i = 1; i<=num.length)
 //  Contain collections without them that
 // collections contain documents taht store key-value data
 
+// fieldset acts as a container to inputs, textarea, lables, it ahs a legend that can give it a title
+// figure groups media content and has a fig caption
 
-
-
+// figure is used to mark up a self-contained piece of content like an image, illustration diagram, that is referenced in the main doc
+// fieldset is used to group form elements like checkboxes, radio, inputs,select
 
 
 

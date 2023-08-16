@@ -450,6 +450,13 @@ for(let i = 1; i<=num.length)
 // The selector with the highest specifiicty takes precedent
 // it is established on a point system, inline css is a 1000, id is 100, class is 10 and regular elements are 1
 
+// progressive rendering helps with increasing percieved page load time for the user by having the browser load the content in stages.
+// when developing you should be mindful of what the user will be engaging with first on the website and 
+//  load that first, while loading on ther content that is not as useful to the user later.
+// improves user's overall experience and engagement.
+// news website you load article first before the ads
+//  product sid
+
 
 
 

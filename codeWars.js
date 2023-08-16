@@ -457,12 +457,18 @@ for(let i = 1; i<=num.length)
 // news website you load article first before the ads
 //  product sid
 
-// srcset attribute allows for more flexibilty when rendering images for a user based on their speicfic network, and device conditions.
+// srcset attribute allows for more flMexibilty when rendering images for a user based on their speicfic network, and device conditions.
 // By giving the browser the option with srcset attribute it can determine which is the best image size, resolution to send the user
 // results in better performance and overall user experience
 
 
 // you interact with collections using methods like findon
+
+// npm install mongodb --save
+// const MongoClient = require('mongodb').MongoClient
+// MongoClient.connect('mongo script key', (err, client)=>{
+
+})
 
 
 

@@ -468,7 +468,8 @@ for(let i = 1; i<=num.length)
 // const MongoClient = require('mongodb').MongoClient
 // MongoClient.connect('mongo script key', (err, client)=>{
 
-})
+// npm -save will save to dependencies for production of the app while --save-dev saves it to dev depenen
+
 
 
 

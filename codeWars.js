@@ -434,7 +434,8 @@ for(let i = 1; i<=num.length)
 
 // object.values, or a for in loop
 
-
+// splice modifies the elements of an array and can replace them.
+// index start, num of indices, element
 
 
 

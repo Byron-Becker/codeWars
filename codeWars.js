@@ -443,8 +443,8 @@ for(let i = 1; i<=num.length)
 
 // object.assign
 
-
-
+// programming is writing a set of instructions for a computer to undertand
+// programming is writing a set of instruction for a computer to unersatand and able to execute
 
 
 

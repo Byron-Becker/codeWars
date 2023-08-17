@@ -446,6 +446,10 @@ for(let i = 1; i<=num.length)
 // programming is writing a set of instructions for a computer to undertand
 // programming is writing a set of instruction for a computer to unersatand and able to execute
 
+// css selector specificty is how to solve the issue when mulitple css rules are targeting the same element.
+// The selector with the highest specifiicty takes precedent
+// it is established on a point system, inline css is a 1000, id is 100, class is 10 and regular elements are 1
+
 
 
 

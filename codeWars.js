@@ -437,6 +437,16 @@ for(let i = 1; i<=num.length)
 // splice modifies the elements of an array and can replace them.
 // index start, num of indices, element
 
+// a statement is a block of code that produces a specific results or performs a specific action
+// in the context of a function it is what will be executed if the function is called
+// assignments, conditionals, loops
+
+// object.assign
+
+
+
+
+
 
 
 

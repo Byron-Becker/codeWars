@@ -428,7 +428,9 @@ for(let i = 1; i<=num.length)
 // if/else and switch statements by allowing you to call methods in the object
 // 
 
-
+// every object has an internal prototype property that acts as a fallback for proeprties and methods.
+// it refers to the object that created it
+// allows for code reuse and object oriented programming
 
 
 

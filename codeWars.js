@@ -432,7 +432,7 @@ for(let i = 1; i<=num.length)
 // it refers to the object that created it
 // allows for code reuse and object oriented programming
 
-
+// object.values, or a for in loop
 
 
 

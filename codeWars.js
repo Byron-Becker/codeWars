@@ -422,4 +422,24 @@ for(let i = 1; i<=num.length)
 
 // 1000 points, bang
 
+// it is the built in object in JS that all objects can access for methods and properties
+// number, function, symbol, boolean, date, array, object, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

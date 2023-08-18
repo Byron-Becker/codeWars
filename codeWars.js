@@ -425,7 +425,8 @@ for(let i = 1; i<=num.length)
 // it is the built in object in JS that all objects can access for methods and properties
 // number, function, symbol, boolean, date, array, object, 
 
-
+// if/else and switch statements by allowing you to call methods in the object
+// 
 
 
 

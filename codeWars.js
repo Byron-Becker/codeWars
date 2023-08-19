@@ -415,7 +415,7 @@ for(let i = 1; i<=num.length)
 // textarea, select, input, only select needs name where input needs name on each one
 // name= so server 
 
-
+// action current url method get
 
 
 

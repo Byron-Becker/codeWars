@@ -405,6 +405,10 @@ for(let i = 1; i<=num.length)
 // .then attaches callbacks to be executed when a promise is resolved or rejected in an error   
 
 
+// orientation media future deals with how the screen orients itself on mobile devices in landscape and portrati depending which way the device is held
+// @media (orientation: portrait){
+
+}
 
 
 

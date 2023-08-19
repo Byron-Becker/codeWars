@@ -417,6 +417,9 @@ for(let i = 1; i<=num.length)
 
 // action current url method get
 
+// mobile first approach is the practice of putting mobile first in media queries so they do not have to download
+// so they don't have to waste bandwitdth loading destop queries that are overwritten
 
+// 
 
 

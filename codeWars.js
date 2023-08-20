@@ -400,7 +400,9 @@ for(let i = 1; i<=num.length)
 // npm install ejs --save
 // app.set('view engine', 'ejs')
 
+// a promise states that a function will return a value at some point in the future or not
 
+// .then attaches callbacks to be executed when a promise is resolved or rejected in an error   
 
 
 

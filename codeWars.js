@@ -392,8 +392,8 @@ for(let i = 1; i<=num.length)
 
 // JSON.stringify() in the body.  similar to an object but key and value are wrapped in quotes
 
-
-
+// lets the server know that the data sent to it in the body will be in json format
+// headers:{'content-type'} 
 
 
 

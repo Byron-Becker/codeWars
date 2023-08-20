@@ -390,6 +390,7 @@ for(let i = 1; i<=num.length)
 // update uses $set, $push, to update it 
 // option has other options like upsert if there is nothing to fix it adds it
 
+// JSON.stringify() in the body.  similar to an object but key and value are wrapped in quotes
 
 
 

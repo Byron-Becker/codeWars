@@ -397,7 +397,8 @@ for(let i = 1; i<=num.length)
 // javascript object notation
 // it's like an object but key and value wrapped in quotes
 
-
+// npm install ejs --save
+// app.set('view engine', 'ejs')
 
 
 

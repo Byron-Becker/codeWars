@@ -385,6 +385,11 @@ for(let i = 1; i<=num.length)
 // ctrl c
 
 
+// findOneand Update (query, update and option)
+// query lets you search a collection for a key-value pair
+// update uses $set, $push, to update it 
+// option has other options like upsert if there is nothing to fix it adds it
+
 
 
 

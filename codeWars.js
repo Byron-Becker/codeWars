@@ -378,7 +378,7 @@ for loop is a controlf low structure
 
 for(let i = 1; i<=num.length)
 
-
+// split method splits a string into an array of substrings
 
 
 

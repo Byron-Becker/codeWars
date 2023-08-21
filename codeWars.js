@@ -382,7 +382,7 @@ for(let i = 1; i<=num.length)
 
 // express function is very similar to an event listner
 
-
+// ctrl c
 
 
 

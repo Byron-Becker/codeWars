@@ -367,6 +367,9 @@ for loop is a controlf low structure
 // stacking context is formed on positioned elements (fixed,sticky,relative, absolute)
 // the parents are given a zindex and the children adopt that
 
+// floats are when elements are floated or taken out of the normal flow of the web page, and can be positioned within
+//  horizontally within the container they are in with the other content flowing around them.
+// this has been mostly replaced by flexbox and grid however
 
 
 

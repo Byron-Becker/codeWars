@@ -371,7 +371,10 @@ for loop is a controlf low structure
 //  horizontally within the container they are in with the other content flowing around them.
 // this has been mostly replaced by flexbox and grid however
 
-
+// you can use http headers to detect the user's preference, you can create a drop down menu for them to choose.
+// developers should aslo consider using the internationalization technique for easier switching between language
+// text can be stored in files that are more easily translated without having to change source code
+// also using locale-based formatting like internationalformat in javascript
 
 
 

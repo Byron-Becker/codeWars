@@ -376,7 +376,7 @@ for loop is a controlf low structure
 // text can be stored in files that are more easily translated without having to change source code
 // also using locale-based formatting like internationalformat in javascript
 
-
+for(let i = 1; i<=num.length)
 
 
 

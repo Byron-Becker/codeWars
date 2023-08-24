@@ -360,7 +360,7 @@ for loop is a controlf low structure
 
 // trim method trims out whitespace on ends of strings and beginning
 
-
+// object destructing is when you take out properties and store them in variables
 
 
 

@@ -362,7 +362,10 @@ for loop is a controlf low structure
 
 // object destructing is when you take out properties and store them in variables
 
-
+// z index is a css property that helps with overlaying elements for web pages like a dropdown navigation bar.
+// the elements are stacked in a numbered order along the z index
+// stacking context is formed on positioned elements (fixed,sticky,relative, absolute)
+// the parents are given a zindex and the children adopt that
 
 
 

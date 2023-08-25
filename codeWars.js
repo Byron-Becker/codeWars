@@ -338,7 +338,10 @@ for loop is a controlf low structure
 // a function expression is a funciton that is assigned to variable.  it has access to this keyword, it does not 
 // function expressions make it easier to call the function
 
+// cURL - it a CLI way of making network requests.  can be used with different OS, network protocols, 
+// fetch is a promised based javscript api that deals with network http requrest on the client side
 
+//  cURL can be used on both serverside and client side
 
 
 

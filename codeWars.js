@@ -347,7 +347,7 @@ for loop is a controlf low structure
 // best practice for it to perform one action
 // they build programs
 
-
+// a for in loop that takes a funciton as an argument, good if you just need to query and don't need a new array or break out of it element index and array
 
 
 

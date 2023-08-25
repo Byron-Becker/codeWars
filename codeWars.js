@@ -353,7 +353,8 @@ for loop is a controlf low structure
 // encapsulation: fuse the data with the methods that will use it
 //  also decouples the back end data from the 
 
-
+// deals with flow of execution and defines language constructs
+// oer
 
 
 

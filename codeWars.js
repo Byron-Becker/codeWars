@@ -356,7 +356,7 @@ for loop is a controlf low structure
 // deals with flow of execution and defines language constructs
 // oer
 
-
+// reduce method reduces the elements of an array to a single output. can apply a function
 
 
 

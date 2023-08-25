@@ -349,7 +349,9 @@ for loop is a controlf low structure
 
 // a for in loop that takes a funciton as an argument, good if you just need to query and don't need a new array or break out of it element index and array
 
-
+// hide the details show the essentials.  Abstrcation is 
+// encapsulation: fuse the data with the methods that will use it
+//  also decouples the back end data from the 
 
 
 

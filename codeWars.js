@@ -343,7 +343,9 @@ for loop is a controlf low structure
 
 //  cURL can be used on both serverside and client side
 
-
+// functions are a simple set of instructions for thte computer to understand and execute
+// best practice for it to perform one action
+// they build programs
 
 
 

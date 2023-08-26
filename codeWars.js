@@ -326,6 +326,8 @@ res.send()
 
 // when the condition cannot be satisified
 
+initializiton, conditonal. update
+for loop is a controlf low structure
 
 
 

@@ -332,6 +332,9 @@ for loop is a controlf low structure
 // keywords deal with the flow of executions and define language constructs
 // operators manipulate values and perform computations
 
+// async before a function means that the function will return a promise.  it will be accessible with .then and catch
+// async will auto wrap the non-promise value in a resolved promise
+
 
 
 

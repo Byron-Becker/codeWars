@@ -324,7 +324,7 @@ res.send()
 // no they are markup langaugaes, they say what to do not how.  can't perform computations or conditional logic
 
 
-// asdf
+// when the condition cannot be satisified
 
 
 

@@ -335,6 +335,31 @@ for loop is a controlf low structure
 // async before a function means that the function will return a promise.  it will be accessible with .then and catch
 // async will auto wrap the non-promise value in a resolved promise
 
+// a function expression is a funciton that is assigned to variable.  it has access to this keyword, it does not 
+// function expressions make it easier to call the function
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

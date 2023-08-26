@@ -318,7 +318,8 @@ res.send()
 
 // it means that the content sent to the server will be in json format
 
-
+// const Mongoclient = require('mongodb').MongoClient
+// Mongoclient.connect('mongo key', (err,client))
 
 
 

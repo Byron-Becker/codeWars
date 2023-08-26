@@ -329,7 +329,8 @@ res.send()
 initializiton, conditonal. update
 for loop is a controlf low structure
 
-
+// keywords deal with the flow of executions and define language constructs
+// operators manipulate values and perform computations
 
 
 

@@ -321,7 +321,7 @@ res.send()
 // const Mongoclient = require('mongodb').MongoClient
 // Mongoclient.connect('mongo key', (err,client))
 
-
+// no they are markup langaugaes, they say what to do not how.  can't perform computations or conditional logic
 
 
 

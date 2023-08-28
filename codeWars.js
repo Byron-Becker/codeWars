@@ -230,8 +230,9 @@ const secOcc (str, c){
             occurences.push()
         }
     }
-
 }
+
+divisor = 20%6
 
 
 

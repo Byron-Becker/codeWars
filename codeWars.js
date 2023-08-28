@@ -209,7 +209,8 @@
 // a constructor is a special method within a class that is automaticlaly executed when the new keyword is used
 // it initializes the object, and states the definition of what the object will have.
 
-
+// keyword deals with execution flow and defines language constructs
+// operator mainpulates values, and perform c
 
 
 

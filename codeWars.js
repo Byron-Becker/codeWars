@@ -212,6 +212,9 @@
 // keyword deals with execution flow and defines language constructs
 // operator mainpulates values, and perform c
 
-
+// it means it will return a resolved promise
+// it will return a value wrapped in a resolved promise
+// it will be accessbile with methods like .this and .catch
+// it will auto wrap 
 
 

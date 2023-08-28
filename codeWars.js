@@ -219,7 +219,19 @@
 
 // you must use the object itself
 
+const occ = (str, c) =>  (str.match(new RegExp(c, 'ig'))|| []).length
 
+const secOcc (str, c){
+    let newStr = str.split('')
+    let occurences = 
+
+    for(let i=0; i < newStr.length; i++){
+        if(newStr[i] === c){
+            occurences.push()
+        }
+    }
+
+}
 
 
 

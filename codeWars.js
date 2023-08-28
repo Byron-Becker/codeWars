@@ -217,7 +217,7 @@
 // it will be accessbile with methods like .this and .catch
 // it will auto wrap 
 
-
+// you must use the object itself
 
 
 

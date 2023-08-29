@@ -199,7 +199,7 @@
 
 // when you use new, the internal prototype property is set to the constructor functions prototype, where as an object literal is sent to the object.protoype gloabal
 
-
+// a regular expression is a search pattern, can have hardcoded with delimiters /  / or ca do new RegExp(variable, flags) to create an ojbects
 
 
 

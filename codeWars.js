@@ -195,7 +195,7 @@
 
 // session only last while prow
 
-
+// object.value is a quick way to turn the values of an object into an array, similar to a for..in loop
 
 
 

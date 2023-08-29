@@ -197,7 +197,7 @@
 
 // object.value is a quick way to turn the values of an object into an array, similar to a for..in loop
 
-
+// when you use new, the internal prototype property is set to the constructor functions prototype, where as an object literal is sent to the object.protoype gloabal
 
 
 

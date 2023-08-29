@@ -201,8 +201,8 @@
 
 // a regular expression is a search pattern, can have hardcoded with delimiters /  / or ca do new RegExp(variable, flags) to create an ojbects
 
-
-
+// an async function automatically returns a promise.  If the value is regu
+// automaticlaly wraps the value in a Promise that resolves with that value
 
 
 

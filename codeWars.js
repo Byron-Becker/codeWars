@@ -204,8 +204,10 @@
 // an async function automatically returns a promise.  If the value is regu
 // automaticlaly wraps the value in a Promise that resolves with that value
 
+// not a number, falsey value it is the equivalent of undefined
 
-
+// a constructor is a special method within a class that is automaticlaly executed when the new keyword is used
+// it initializes the object, and states the definition of what the object will have.
 
 
 

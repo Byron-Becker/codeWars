@@ -190,7 +190,8 @@
 // keyword deals with flow of execution, and language contructs
 // operators deal with perfoming calculations
 
-
+// keyword deals with flow executions, and defining language constructs
+// operators manipulate values and perform calculations
 
 
 

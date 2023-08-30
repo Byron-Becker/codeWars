@@ -174,6 +174,30 @@
 // mark up languages, html for structure and content, css for style.  Can't do logic handling, store or manipulate data
 // declarative language: what should be done not how
 
+// git add ., .txt, -A, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

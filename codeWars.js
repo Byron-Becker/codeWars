@@ -176,7 +176,10 @@
 
 // git add ., .txt, -A, 
 
+// functions are simple set of instructions, they are reusable, they are the building blocks of programming
+// best practice to perform one action
 
+// 
 
 
 

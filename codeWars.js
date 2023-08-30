@@ -163,7 +163,9 @@
 
 // email, date, time, url, tel, number
 
-
+//  parent will collapse when child is floated so clearfix resolves this issue
+//  so the structure of the website is not messed with
+// content: "", display:table
 
 
 

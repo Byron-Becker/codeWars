@@ -187,7 +187,8 @@
 // this protects the data from outside interference with getter/setter functions
 // controls the way in which the dta 
 
-
+// keyword deals with flow of execution, and language contructs
+// operators deal with perfoming calculations
 
 
 

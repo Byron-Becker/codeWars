@@ -179,7 +179,13 @@
 // functions are simple set of instructions, they are reusable, they are the building blocks of programming
 // best practice to perform one action
 
-// 
+// hide the details, show the essentails
+// it promotes greater modularity
+
+// encapsulation fuses the data with the methods
+// also seperates the back end from the front interface
+// this protects the data from outside interference with getter/setter functions
+// controls the way in which the dta 
 
 
 

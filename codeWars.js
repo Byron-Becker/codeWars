@@ -147,8 +147,10 @@
 
 // you must be mindful of connecting with server and not locally by just opening the index.html file
 
-
-
+// read - get
+// create - post
+// update - put
+// delte - delete
 
 
 

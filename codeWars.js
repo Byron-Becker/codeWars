@@ -152,7 +152,8 @@
 // update - put
 // delte - delete
 
-
+// no they are not full programming languages, they are just mark up languages they can not perform computations
+// js is a full programming language
 
 
 

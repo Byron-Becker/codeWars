@@ -161,7 +161,7 @@
 
 // css rule, p is the selector, declaration block, declarations, property and value
 
-
+// email, date, time, url, tel, number
 
 
 

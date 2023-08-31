@@ -145,7 +145,7 @@
 
 // .then is executed after a promise, and it can 
 
-
+// you must be mindful of connecting with server and not locally by just opening the index.html file
 
 
 

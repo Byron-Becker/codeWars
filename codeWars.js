@@ -159,7 +159,7 @@
 //  that way they are not having to load extra data that is on a desktop that won't be seen on a mobile device
 // faster loading, conserv
 
-
+// css rule, p is the selector, declaration block, declarations, property and value
 
 
 

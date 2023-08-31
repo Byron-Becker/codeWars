@@ -155,7 +155,9 @@
 // no they are not full programming languages, they are just mark up languages they can not perform computations
 // js is a full programming language
 
-
+// mobile first approach is the idea that website media queries should be set up to server the mobile user first because
+//  that way they are not having to load extra data that is on a desktop that won't be seen on a mobile device
+// faster loading, conserv
 
 
 

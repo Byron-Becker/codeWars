@@ -143,7 +143,7 @@
 
 // it sends a cursor that points where the data is.  You can use another method built into find like toArray() to display it
 
-
+// .then is executed after a promise, and it can 
 
 
 

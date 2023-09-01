@@ -137,7 +137,9 @@
 // npm install body-parser, const bodyParser = require(;b)
 // app.use for when you want to use middleware
 
-
+// databases, can be empty, can set privledges, can have multple
+// collections are within databases
+// documents within collections and they have key-value pair data
 
 
 

@@ -132,7 +132,7 @@
 
 // you use methods like insertOne, deleteOne, find()
 
-
+// the page will keep loading because it expects something form the server.  can use res.redirect back to homepage
 
 
 

@@ -141,7 +141,7 @@
 // collections are within databases
 // documents within collections and they have key-value pair data
 
-
+// it sends a cursor that points where the data is.  You can use another method built into find like toArray() to display it
 
 
 

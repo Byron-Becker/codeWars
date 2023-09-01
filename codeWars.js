@@ -134,8 +134,8 @@
 
 // the page will keep loading because it expects something form the server.  can use res.redirect back to homepage
 
-
-
+// npm install body-parser, const bodyParser = require(;b)
+// app.use for when you want to use middleware
 
 
 

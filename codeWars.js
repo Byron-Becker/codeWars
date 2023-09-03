@@ -121,7 +121,7 @@
 // simple set of instructions, reusable, perform one action as best practice
 // building blocks of a program
 
-
+// a set of instructions for a computer to understand and exccute
 
 
 

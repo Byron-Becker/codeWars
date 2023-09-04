@@ -107,6 +107,8 @@
 // methods.
 // find, insertone, 
 
+// find(), returns a cursor which points to where the data is.  Find has methods that can display data like toArray
+
 
 
 

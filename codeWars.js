@@ -115,7 +115,8 @@
 
 // color url position repeat
 
-
+//  display:inline-block
+//  width 30% margin
 
 
 

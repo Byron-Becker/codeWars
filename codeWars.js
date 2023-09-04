@@ -118,7 +118,8 @@
 //  display:inline-block
 //  width 30% margin
 
-
+// simple set of instructions, reusable, perform one action as best practice
+// building blocks of a program
 
 
 

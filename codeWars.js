@@ -109,7 +109,7 @@
 
 // find(), returns a cursor which points to where the data is.  Find has methods that can display data like toArray
 
-
+// .then method waits until the promise is returned and then executes the next data
 
 
 

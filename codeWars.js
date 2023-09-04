@@ -111,9 +111,9 @@
 
 // .then method waits until the promise is returned and then executes the next data
 
+//  overflow: auto
 
-
-
+// color url position repeat
 
 
 

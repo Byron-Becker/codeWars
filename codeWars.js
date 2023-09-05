@@ -92,7 +92,8 @@
 
 // it is generally a good idea to put css in the head, because as the ui loads you want the content to load with it's styling, and you put the javascript at the end of the body to avoid blocking the critical rendering path which helps to improve page load time.  Both help improve the overal user experience
 
-
+// you must be mindful to open up the http local host and not from the index.html file
+//  need to access server over the internet
 
 
 

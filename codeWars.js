@@ -95,6 +95,7 @@
 // you must be mindful to open up the http local host and not from the index.html file
 //  need to access server over the internet
 
+// it will keep loading as it expects a response back, you can use res.redirect to the homepage
 
 
 

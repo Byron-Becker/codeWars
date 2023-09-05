@@ -97,6 +97,8 @@
 
 // it will keep loading as it expects a response back, you can use res.redirect to the homepage
 
+// it used to but now it is built and and can be 
+// done with the res.body
 
 
 

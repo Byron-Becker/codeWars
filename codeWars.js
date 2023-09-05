@@ -100,7 +100,9 @@
 // it used to but now it is built and and can be 
 // done with the res.body
 
-
+// you have a database: can be empty
+// collections go inside the database
+// documents within collectiosn that are key-value pairs
 
 
 

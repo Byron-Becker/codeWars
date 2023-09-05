@@ -104,7 +104,8 @@
 // collections go inside the database
 // documents within collectiosn that are key-value pairs
 
-
+// methods.
+// find, insertone, 
 
 
 

@@ -316,7 +316,7 @@ dirname directory you are in
 // app.get('/', req res =)
 res.send()
 
-
+// it means that the content sent to the server will be in json format
 
 
 

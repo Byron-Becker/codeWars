@@ -313,8 +313,8 @@ dirname directory you are in
 
 // res.sendFile(__dirname + '/index.html)
 
-
-
+// app.get('/', req res =)
+res.send()
 
 
 

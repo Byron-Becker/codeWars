@@ -309,7 +309,9 @@ dirname directory you are in
 
 // when you add a script key you are put a script in with a specific key to be used like npm run dev
 
+// res.redirect('/')
 
+// res.sendFile(__dirname + '/index.html)
 
 
 

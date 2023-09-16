@@ -290,7 +290,9 @@ must put it before app.use, app.get
 // javacript object notation
 // it is similar to an object except the key and value are wrapped in quotes
 
-
+// you convert it in the body: JSON.strinigy(
+    name:
+)
 
 
 

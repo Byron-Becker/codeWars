@@ -294,6 +294,10 @@ must put it before app.use, app.get
     name:
 )
 
+query, update, option
+// query lets you search for a specific key and value
+// update you can choose how to update
+// optio is other p
 
 
 

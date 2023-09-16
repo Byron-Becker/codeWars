@@ -299,7 +299,11 @@ query, update, option
 // update you can choose how to update
 // optio is other p
 
+// npm install mongoDB --save
+// const MongoClient = require('mongodb').Mongoclient
+// MongoClient.connect(mongo string, (err, client) => {
 
+})
 
 
 

@@ -305,6 +305,7 @@ query, update, option
 
 })
 
+dirname directory you are in    
 
 
 

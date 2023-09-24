@@ -283,7 +283,9 @@ must put it before app.use, app.get
 
 // it lets the server know what kind of data you are sending it
 
-
+// npm install ejs --save
+// app.set('view engine', 'ejs;)
+// put it before app.use/get/post
 
 
 

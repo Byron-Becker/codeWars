@@ -281,7 +281,7 @@ must put it before app.use, app.get
 //     console.log('Running on 8000')
 // })
 
-// 
+// it lets the server know what kind of data you are sending it
 
 
 

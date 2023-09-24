@@ -287,7 +287,8 @@ must put it before app.use, app.get
 // app.set('view engine', 'ejs;)
 // put it before app.use/get/post
 
-
+// javacript object notation
+// it is similar to an object except the key and value are wrapped in quotes
 
 
 

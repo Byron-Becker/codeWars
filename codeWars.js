@@ -271,6 +271,59 @@ must put it before app.use, app.get
 
 // you put it in the body property
 
+// npm install express -- save
+// const express = require('express')
+// const app = express()
+// const PORT = 8000
+
+
+// app.listen(PORT, function(){
+//     console.log('Running on 8000')
+// })
+
+// 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

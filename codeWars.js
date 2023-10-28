@@ -263,7 +263,7 @@ must put it before app.use, app.get
 
 // JSON stands for javascript object notation, it is similar to a javascrip object but puts the key and the value in quotation marks
 
-
+// you used to have to use a bodyParser but now it's built into express
 
 
 

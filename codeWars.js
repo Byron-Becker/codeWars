@@ -265,6 +265,12 @@ must put it before app.use, app.get
 
 // you used to have to use a bodyParser but now it's built into express
 
+// JSON.stringify({
+//     put the object here
+// })
+
+// you put it in the body property
+
 
 
 

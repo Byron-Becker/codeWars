@@ -261,7 +261,7 @@ must put it before app.use, app.get
 // npm install body-parser --save
 // const bodyParser = app.use('b)
 
-
+// JSON stands for javascript object notation, it is similar to a javascrip object but puts the key and the value in quotation marks
 
 
 

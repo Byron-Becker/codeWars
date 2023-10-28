@@ -247,7 +247,19 @@ divisor = 20%6
 
 //  the replace method takes in a search pattern reg expressiongand then replaces it with the 
 
+// nodemon auto reconnets server when there is achange to the coe
+//  npm install nodemon --save
+// run the script run dev: 
 
+// npm install ejs --save
+
+// app.set('view engine', 'ejs;)
+
+must put it before app.use, app.get
+
+// body parser cleans up a form and you access it with body.  built into express now, but not before
+// npm install body-parser --save
+// const bodyParser = app.use('b)
 
 
 

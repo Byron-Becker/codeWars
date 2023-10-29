@@ -125,6 +125,13 @@
 
 // seperate structure from skin and content from container
 
+// general sibling selector ~ selects all that follow the elemnt
+// adjacent is a + and follows directly after
+
+
+
+
+
 
 
 

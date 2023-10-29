@@ -130,7 +130,7 @@
 
 // / / is delimeters, [] tell the character set of the search expression, i is case insensitive and g is global meaning it will go throught he whole string
 
-
+// you use methods like insertOne, deleteOne, find()
 
 
 

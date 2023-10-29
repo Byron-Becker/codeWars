@@ -123,6 +123,8 @@
 
 // a set of instructions for a computer to understand and exccute
 
+// seperate structure from skin and content from container
+
 
 
 

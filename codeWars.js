@@ -245,7 +245,7 @@ divisor = 20%6
 
 // or operator returns the first truthy value.  Null is falsy and an empty array is truthy
 
-
+//  the replace method takes in a search pattern reg expressiongand then replaces it with the 
 
 
 

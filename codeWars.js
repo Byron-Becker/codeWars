@@ -243,7 +243,7 @@ divisor = 20%6
 
 // .join method combines an array into a string ", "
 
-
+// or operator returns the first truthy value.  Null is falsy and an empty array is truthy
 
 
 

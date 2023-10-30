@@ -239,7 +239,7 @@ divisor = 20%6
 
 // array.from, takes a map funciton can apply it to multiple
 
-
+//  delimieters mark a search pattern reg exp [] hard code character set
 
 
 

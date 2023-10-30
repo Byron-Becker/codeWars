@@ -241,7 +241,7 @@ divisor = 20%6
 
 //  delimieters mark a search pattern reg exp [] hard code character set
 
-
+// .join method combines an array into a string ", "
 
 
 

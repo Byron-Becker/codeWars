@@ -237,7 +237,7 @@ divisor = 20%6
 // they all deal with how a javascript is loaded and executed with different use cases.
 // it's important for the developer to undertand how each one works for improve
 
-
+// array.from, takes a map funciton can apply it to multiple
 
 
 

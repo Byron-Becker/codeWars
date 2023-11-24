@@ -779,7 +779,27 @@ const encryptThis = text => text
   
   const encryptThis = text => text.split(' ').map(encryptWord).join(' ');
 
-
+  ar encryptThis = function(text) {
+    const textArr = text.split(' ');
+    
+    let encrypted = ``; // store the encrypted text
+    
+    for (const word of textArr){
+       let len = word.length;
+       let crypt;
+       // get the ASCII code of the first letter
+       let char = word.charCodeAt(0);
+       crypt = `${char}`;
+         
+       if (len > 2){
+         // works for words' greater than 2
+         crypt += `${word[len-1]}${word.slice(2, len-1)}${word[1]}`
+       } else if (len == 2){
+          crypt += `${word.slice(1)}`
+       } else{
+         // assumes it is a single letter
+       }
+       encrypted += crypt + ' ';
 
 
 

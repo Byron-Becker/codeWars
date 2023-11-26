@@ -722,7 +722,10 @@ function divCon(x){
   return numSum - strSum
 }
 
-
+// Return the same string, but with spaces between characters
+function spacify(str) {
+  return str.split("").join(" ");
+}
 
 
 

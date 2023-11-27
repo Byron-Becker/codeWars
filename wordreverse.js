@@ -16,3 +16,14 @@ function spinWords(str) {
     }
     return strArr.join(' ');
   }
+
+
+
+
+
+
+
+
+
+
+  

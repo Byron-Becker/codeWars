@@ -590,8 +590,29 @@ function greetDevelopers(list) {
 // also use ; to help with closing out blocks
 
 
+function isRubyComing(list) {
+  return list.some(e => e.language === 'Ruby');
+}
 
+// some method is similar to filter method, but returns true if one element meets the conditon
+// instead of building a new array of the list like filter
+// also true/false conditionals should be done with ternary
 
+function getFirstPython(list) {
+  
+  let firstPythonDev = list.findIndex(e => e.language === 'Python');
+
+  if(firstPythonDev === -1){
+          return 'There will be no Python developers'
+  }else{
+
+    return `${list[firstPythonDev].firstName}, ${list[firstPythonDev].country}`
+  };
+
+};
+
+// can use the find or findIndex method
+// findIndex is indexOf, but for elements in an array instead of a substring in a string
 
 
 

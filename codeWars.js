@@ -578,6 +578,51 @@ on that takes a string of two words, separated by a space: words and returns a s
 asdsdf
 
 
+function greetDevelopers(list) {
+  list.forEach(function(developer) {
+    developer.greeting = `Hi ${developer.firstName}, what do you like the most about ${developer.language}?`;
+  });
+  
+  return list;
+}
+
+// you need to set up RETURNS EVERY TIME!!!!!!!!! before you start the code
+// also use ; to help with closing out blocks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

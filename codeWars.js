@@ -728,6 +728,22 @@ function spacify(str) {
 }
 
 
+function balancedNum(number) {
+  let numStr = number.toString();
+
+  if (numStr.length % 2 === 0) {
+      let evenArr = numStr.split('').map(Number);
+      let leftBal = evenArr.slice(0, numStr.length / 2 - 1).reduce((acc, num) => acc + num, 0);
+      let rightBal = evenArr.slice(numStr.length / 2 + 1).reduce((acc, num) => acc + num, 0);
+      return leftBal === rightBal ? 'Balanced' : 'Not Balanced';
+  } else {
+      let midIndex = Math.floor(numStr.length / 2);
+      let oddArr = numStr.split('').map(Number);
+      let lBal = oddArr.slice(0, midIndex).reduce((acc, num) => acc + num, 0);
+      let rBal = oddArr.slice(midIndex + 1).reduce((acc, num) => acc + num, 0);
+      return lBal === rBal ? 'Balanced' : 'Not Balanced';
+  }
+};
 
 
 

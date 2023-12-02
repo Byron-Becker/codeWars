@@ -615,6 +615,26 @@ function getFirstPython(list) {
 // findIndex is indexOf, but for elements in an array instead of a substring in a string
 
 
+function countLanguages(list) {
+  
+  let langObj = {};
+  
+  for(let i=0; i < list.length; i++){
+    
+    if(langObj[list[i].language]){
+      langObj[list[i].language]++;
+
+    }else{
+      langObj[list[i].language] = 1;
+
+    };
+    
+  };
+  
+  return langObj;
+    
+  };
+
 
 
 

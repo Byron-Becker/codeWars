@@ -636,7 +636,15 @@ function countLanguages(list) {
   };
 
 
+  function countLanguages(list) {
+    var count = {};
+    list.forEach(x => count[x.language] = (count[x.language] || 0) + 1);
+    return count;
+  }
 
+// by doing (count[x].language || 0) you are saying does the language exist, if it 
+// does not then it is false and it sets the count to 0 and then you add one.  If it does exist
+// then you add 1 to it.
 
 
 

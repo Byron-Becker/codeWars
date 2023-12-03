@@ -672,7 +672,32 @@ function allContinents(list) {
 };
 
 
+function isAgeDiverse(list) {
+  
+  // Define an array of age group objects
+const ageBrackets = [
+  { name: 'teens', minAge: 13, maxAge: 19, count: 0 },
+  { name: 'twenties', minAge: 20, maxAge: 29, count: 0 },
+  { name: 'thirties', minAge: 30, maxAge: 39, count: 0 },
+  { name: 'forties', minAge: 40, maxAge: 49, count: 0 },
+  { name: 'fifties', minAge: 50, maxAge: 59, count: 0 },
+  { name: 'sixties', minAge: 60, maxAge: 69, count: 0 },
+  { name: 'seventies', minAge: 70, maxAge: 79, count: 0 },
+  { name: 'eighties', minAge: 80, maxAge: 89, count: 0 },
+  { name: 'nineties', minAge: 90, maxAge: 99, count: 0 },
+  { name: 'centenarian', minAge: 100, maxAge: Infinity, count: 0 },
+];
 
+  for(let developer of list){
+    
+    list.age 
+    
+  };
+  
+    
+    
+    
+};
 
 
 

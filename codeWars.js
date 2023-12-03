@@ -647,6 +647,11 @@ function countLanguages(list) {
 // then you add 1 to it.
 
 
+function findSenior(list) {
+	var maxAge = Math.max(...list.map(person => person.age));
+	return list.filter(person => person.age === maxAge);
+}
+
 
 
 

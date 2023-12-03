@@ -652,7 +652,24 @@ function findSenior(list) {
 	return list.filter(person => person.age === maxAge);
 }
 
+function allContinents(list) {
 
+  let newArr = list.map(developer => developer.continent) 
+  
+  if(newArr.includes('Africa') &&
+     newArr.includes('Americas') &&
+     newArr.includes('Asia') &&
+     newArr.includes('Europe') &&
+     newArr.includes('Oceania')
+    ){
+    return true
+  }else{
+    return false
+  };
+  
+    
+    
+};
 
 
 

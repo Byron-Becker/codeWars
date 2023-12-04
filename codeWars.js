@@ -703,7 +703,9 @@ const ageBrackets = [
 const toNumberArray = (stringarray) => stringarray.map((e) => Number(e))
 
 
-
+unction divCon(x){
+  return x.reduce((acc, cur) => typeof cur === 'number'? acc + cur : acc - Number(cur),0)
+}
 
 
 

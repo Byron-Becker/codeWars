@@ -700,6 +700,16 @@ const ageBrackets = [
 };
 
 
+const toNumberArray = (stringarray) => stringarray.map((e) => Number(e))
+
+
+
+
+
+
+
+
+
 
 
 

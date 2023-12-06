@@ -837,7 +837,7 @@ function decode(string) {
   for(let i = 0; i < string.length; i++) {
     switch(string[i]) {
       case '1': output+= "a"
-        break;
+        break;asdfasdf
       case '2': output+= "e"
         break;
       case '3': output+= "i"
